@@ -13,7 +13,7 @@ hasCJKLanguage = true
 googleAnalytics = "G-6JWB35KP1C"
 
 # Disqus Comment System
-#disqusShortname = ""
+disqusShortname = "nakag916"
 
 [params]
 # Base color of the website.
