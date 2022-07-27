@@ -1,16 +1,27 @@
-baseURL = 'https://nakag916.github.io'
-title = 'Fool on the Internet'
-languageCode = 'ja'
+baseURL = "https://nakag916.github.io"
+title = "Fool on the Internet"
+author = "nakag916"
+languageCode = "ja"
 defaultContentLanguage = "ja"
 theme = "Blonde"
+enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+googleAnalytics = "G-6JWB35KP1C"
+
+# Disqus Comment System
+#disqusShortname = ""
 
 [params]
 # Base color of the website.
 # https://tailwindcss.com/docs/background-color
 base_color = "bg-gray-800"
+
+#Site description
+description = "Fool on the Internet | Powered by Hugo Theme Blonde"
 
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
@@ -20,7 +31,8 @@ tagsLimit = 20
 
 # Dark mode by default : dark
 # Light mode by default : light
-# darkmode = 'dark'
+# darkmode = "dark"
+
   [params.widgets]
     # Display widgets
     display = true
