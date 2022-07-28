@@ -60,6 +60,13 @@ tagsLimit = 20
   #   url = "/contact/"
   #   weight = 3
 
+  [[menu.main]]
+    identifier = "termofservices"
+    name = "Term of Services"
+    url = "/termofservices/"
+    weight = 4
+
+
 [taxonomies]
 category = "categories"
 tag = "tags"

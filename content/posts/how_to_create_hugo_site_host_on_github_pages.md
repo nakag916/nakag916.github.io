@@ -30,7 +30,7 @@ draft: false
 
 下記に従って設定する
 - https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
-- 今回はお名前.comで使ったドメインをCNAMEレコードを設定
+- 今回はお名前.comで使ったドメインをCNAMEレコードに設定
   - https://www.onamae.com/guide/p/70
 
 
